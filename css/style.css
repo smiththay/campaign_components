@@ -4,7 +4,11 @@ html, body {
 }
 body{
     background-color: rgb(252, 252, 252);
-    background-image: url("");
+    background-image: url(/img/background2.jpeg);
+    height: 100%;
+    background-position: bottom;
+    background-repeat: ;
+    background-size: ;
 }
 
   .carousel .item>img {
@@ -15,6 +19,6 @@ body{
   height: 100%;
 }
 .card{
-    border-radius: 10%;
-    background-color: rgba(247, 247, 247, 0.619);
+   
+    background-color: rgba(247, 247, 247, 0.386);
 }
