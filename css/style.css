@@ -1,0 +1,23 @@
+html, body {
+    height: 100vh;
+
+}
+body{
+    background-color: rgb(252, 252, 252);
+    background-image: url("/img/background4.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.card{
+    background-color: rgba(247, 247, 247, 0.906);
+}
+.footer{
+    
+    background-color: rgb(255, 255, 255);
+}
+svg:hover path, svg:hover polygon{
+    fill: blue;
+  }
