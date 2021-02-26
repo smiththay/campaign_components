@@ -4,7 +4,7 @@ html, body {
 }
 body{
     background-color: rgb(252, 252, 252);
-    background-image: url("./img/background4.jpg");
+    background-image: url("img/background4.jpg");
     height: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
